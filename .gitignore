@@ -1,0 +1,297 @@
+# 🚫 .gitignore for Reach for the Sun — Offline Setup Assistant
+
+# ==========================================
+# 🔐 SECURITY & CREDENTIALS
+# ==========================================
+# Never commit sensitive information!
+.internal/GITHUB_CREDENTIALS.md
+.internal/
+*.key
+*.pem
+*.p12
+*.keystore
+credentials.json
+secrets.json
+config.private.json
+
+# ==========================================
+# 🏗️ BUILD & DISTRIBUTION
+# ==========================================
+# Build outputs and temporary files
+build/
+dist/
+out/
+target/
+bin/
+obj/
+release/
+debug/
+*.exe
+*.msi
+*.dmg
+*.deb
+*.rpm
+*.appimage
+*.snap
+
+# ==========================================
+# 📦 PACKAGE MANAGERS
+# ==========================================
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.pytest_cache/
+htmlcov/
+
+# ==========================================
+# 🎮 GAME DEVELOPMENT
+# ==========================================
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Assets/AssetStoreTools*
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# ==========================================
+# 🖥️ OPERATING SYSTEMS
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ==========================================
+# 🛠️ DEVELOPMENT TOOLS
+# ==========================================
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+*.db-journal
+
+# ==========================================
+# 📚 DOCUMENTATION BUILD
+# ==========================================
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# GitBook
+_book/
+.grunt
+
+# ==========================================
+# 🎨 ASSETS & MEDIA
+# ==========================================
+# Large media files (use Git LFS instead)
+*.psd
+*.ai
+*.sketch
+*.fig
+*.xcf
+*.blend
+*.max
+*.ma
+*.mb
+
+# Temporary media files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# ==========================================
+# 📱 MOBILE DEVELOPMENT
+# ==========================================
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+proguard/
+lint/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# iOS
+*.ipa
+*.dSYM.zip
+*.dSYM
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# ==========================================
+# 🌐 WEB DEVELOPMENT
+# ==========================================
+# Compiled web assets
+*.css.map
+*.js.map
+dist/
+public/
+www/
+
+# ==========================================
+# 📊 ANALYTICS & MONITORING
+# ==========================================
+# Analytics and crash reports
+*.crashlytics
+*.analytics
+*.metrics
+*.telemetry
+
+# ==========================================
+# 🧪 TESTING
+# ==========================================
+# Test results and coverage
+coverage/
+.nyc_output/
+junit.xml
+test-results/
+*.cover
+.coverage
+.pytest_cache/
+
+# ==========================================
+# 📋 CUSTOM PROJECT FILES
+# ==========================================
+# Educational content that's work-in-progress
+lesson-plans-draft/
+assessments-draft/
+*.draft.md
+*.wip.*
+
+# User-generated content and saves
+user-data/
+student-saves/
+teacher-configs/
+classroom-data/
+
+# Development documentation
+dev-notes/
+internal-docs/
+*.internal.*
+
+# ==========================================
+# 🌟 SPECIAL EDUCATIONAL NOTES
+# ==========================================
+# This project is designed for educational use
+# Ensure no student data or personal information
+# is ever committed to version control
+
+# For educators: Store lesson plans and student
+# work in separate, secure locations
+
+# For developers: Use environment variables
+# for any configuration that might contain
+# sensitive information 

@@ -1,0 +1,233 @@
+# Site settings
+title: "Reach for the Sun — Offline Setup Assistant"
+description: "Award-winning educational plant simulation game - completely offline, no Steam required. Perfect for K-12 STEM education, biology, and botany learning."
+baseurl: "/reach-for-the-sun-offline-setup-assistant"
+url: "https://reach-for-the-sun-offline-free.github.io"
+
+# Repository information
+repository: "Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant"
+github_username: "Reach-for-the-Sun-Offline-Free"
+
+# Author information
+author:
+  name: "Reach for the Sun Educational Team"
+  email: "support@reach-for-the-sun.edu"
+  bio: "Dedicated to making science education accessible and engaging through innovative educational technology."
+
+# SEO and social media
+google_analytics: "G-XXXXXXXXXX"  # Replace with actual tracking ID
+google_site_verification: "XXXXXXXXXX"  # Replace with actual verification code
+
+# Social media links
+social:
+  twitter: "reachforthesun"
+  github: "Reach-for-the-Sun-Offline-Free"
+  youtube: "c/reachforthesun"
+  email: "support@reach-for-the-sun.edu"
+
+# Theme configuration
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-redirect-from
+
+# Content configuration
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+# Collections
+collections:
+  lesson_plans:
+    output: true
+    permalink: /:collection/:name/
+  guides:
+    output: true
+    permalink: /:collection/:name/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Educational Team"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "lesson_plans"
+    values:
+      layout: "lesson"
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
+
+# Navigation
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Download"
+    url: "/#download"
+  - title: "For Educators"
+    url: "/#educators"
+  - title: "Documentation"
+    url: "/docs"
+  - title: "Support"
+    url: "/support"
+  - title: "GitHub"
+    url: "https://github.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant"
+
+# Educational metadata
+education:
+  grade_levels:
+    - "K-5 Elementary"
+    - "6-8 Middle School"
+    - "9-12 High School"
+    - "College/University"
+  subjects:
+    - "Biology"
+    - "Botany"
+    - "Environmental Science"
+    - "STEM Integration"
+    - "General Science"
+  standards:
+    - "Next Generation Science Standards (NGSS)"
+    - "Common Core State Standards"
+    - "International Baccalaureate (IB)"
+    - "National Science Education Standards"
+
+# SEO keywords
+keywords: 
+  - "plant simulation game"
+  - "educational biology game"
+  - "STEM education software"
+  - "offline educational games"
+  - "botany teaching tools"
+  - "plant life cycle game"
+  - "classroom science games"
+  - "photosynthesis simulation"
+  - "biology curriculum games"
+  - "no steam required games"
+  - "K-12 science education"
+  - "offline STEM tools"
+
+# Build settings
+safe: true
+incremental: false
+lsi: false
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
+  - CONTRIBUTING.md
+  - SECURITY.md
+  - CODE_OF_CONDUCT.md
+  - CHANGELOG.md
+  - .gitignore
+  - .github/
+  - .internal/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - "*.internal.*"
+
+# Include in processing
+include:
+  - .well-known
+
+# Liquid settings
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
+
+# Sass settings
+sass:
+  style: compressed
+  sourcemap: never
+
+# Plugin settings
+feed:
+  collections:
+    - lesson_plans
+    - guides
+
+# Sitemap settings
+sitemap:
+  exclude:
+    - "/404.html"
+    - "/search.html"
+
+# SEO tag settings
+webmaster_verifications:
+  google: "XXXXXXXXXX"  # Replace with actual verification code
+  bing: "XXXXXXXXXX"    # Replace with actual verification code
+
+# Logo and images
+logo: "/assets/logo.png"
+twitter:
+  card: "summary_large_image"
+
+# OpenGraph defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/social-preview.png"
+      image:alt: "Reach for the Sun - Educational Plant Simulation Game"
+
+# Educational platform integrations
+integrations:
+  google_classroom: true
+  canvas_lms: true
+  blackboard: true
+  moodle: true
+
+# Accessibility
+accessibility:
+  skip_links: true
+  high_contrast: true
+  screen_reader_friendly: true
+  keyboard_navigation: true
+
+# Performance
+performance:
+  lazy_loading: true
+  image_optimization: true
+  css_minification: true
+  js_minification: true
+
+# Language and localization
+lang: "en-US"
+timezone: "America/New_York"
+
+# Contact information
+contact:
+  support_email: "support@reach-for-the-sun.edu"
+  feedback_email: "feedback@reach-for-the-sun.edu"
+  press_email: "press@reach-for-the-sun.edu"
+  partnership_email: "partnerships@reach-for-the-sun.edu"
+
+# Legal
+privacy_policy_url: "/privacy"
+terms_of_service_url: "/terms"
+cookie_policy_url: "/cookies"
+
+# Content security
+content_security_policy: true
+ssl_redirect: true
+secure_headers: true 
