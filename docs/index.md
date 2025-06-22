@@ -120,16 +120,6 @@ Students will be able to:
     <img src="https://raw.githubusercontent.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/main/assets/screenshot-germination.png" alt="Germination Phase">
     <p><strong>Germination Phase</strong><br>Students allocate resources for optimal seed growth</p>
   </div>
-  
-  <div class="screenshot-item">
-    <img src="https://raw.githubusercontent.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/main/assets/screenshot-photosynthesis.png" alt="Photosynthesis Management">
-    <p><strong>Photosynthesis Management</strong><br>Balance light, water, and CO₂ for energy production</p>
-  </div>
-  
-  <div class="screenshot-item">
-    <img src="https://raw.githubusercontent.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/main/assets/screenshot-flowering.png" alt="Flowering Stage">
-    <p><strong>Flowering Stage</strong><br>Attract pollinators and ensure successful reproduction</p>
-  </div>
 </div>
 
 ---

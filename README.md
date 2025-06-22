@@ -47,13 +47,6 @@
 ![Photosynthesis Phase](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMSwtJEaIJQF8f1mNXodMQi_1velpk5NLxg&s)
 *Balance energy and nutrients as your plant grows*
 
-![Flowering Stage](https://raw.githubusercontent.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/main/assets/flowering.png)
-*Watch your plant bloom and attract pollinators*
-
-### Educational Interface
-![Learning Mode](https://raw.githubusercontent.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/main/assets/education.png)
-*Interactive lessons explain plant biology concepts*
-
 ## 🎮 How to Play
 
 ### Quick Start
